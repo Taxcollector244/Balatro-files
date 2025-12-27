@@ -1,3 +1,16 @@
+# Development files
 .vercel
 package.ps1
 /game/
+count_loc.ps1
+
+# Testing Files
+/theme/
+game.js
+index.html
+love.js
+love.wasm
+
+# Backup data files
+gamed.data
+gamez.data
